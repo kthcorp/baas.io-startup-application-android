@@ -1,0 +1,3 @@
+[submodule "baas.io-SDK-Android"]
+	path = baas.io-SDK-Android
+	url = https://github.com/kthcorp/baas.io-SDK-Android
